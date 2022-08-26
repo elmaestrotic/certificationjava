@@ -1,0 +1,3 @@
+amor,love
+inglés,english
+oso,bear
